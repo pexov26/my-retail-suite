@@ -10,6 +10,10 @@ The application strictly adheres to a decoupled 5-layer design pattern to mainta
 * `app.py` — Presentation layer managing interactive dashboard UI elements and filter matrices.
 * `requirements.txt` — Tracked sandbox package ecosystem dependencies.
 
+##    LIVE DEMO  ##
+
+      https://my-retail-suite-sg9kcvyrjt4qwhppo8gqbw.streamlit.app/
+      
 ## 🚀 Local Installation & Quickstart
 
 1. **Clone the Repository:**
