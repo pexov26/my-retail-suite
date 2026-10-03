@@ -1,0 +1,10 @@
+{
+    "python.defaultInterpreterPath": "/home/pexov/micromamba/envs/ds_ai/bin/python",
+    "python.analysis.extraPaths": [
+        "."
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+}
+{
+    "files.insertFinalNewline": true
+}
